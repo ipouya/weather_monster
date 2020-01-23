@@ -1,0 +1,12 @@
+
+server:
+    address: ":3000"
+sql:
+    type:     postgres
+    host:     localhost
+    user:     pouya
+    dbname:   main_db
+    password: "12345"
+    port:     5432
+    sslmode:  disable
+
